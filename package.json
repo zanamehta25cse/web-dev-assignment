@@ -2,16 +2,16 @@
   "name": "web-dev-assignment",
   "version": "1.0.0",
   "description": "Assignment project",
-  "homepage": "https://github.com/singhnilay/web-dev-assignment#readme",
+  "homepage": "https://github.com/zanamehta25cse/web-dev-assignment#readme",
   "bugs": {
-    "url": "https://github.com/singhnilay/web-dev-assignment/issues"
+    "url": "https://github.com/zanamehta25cse/web-dev-assignment/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/singhnilay/web-dev-assignment.git"
+    "url": "git+https://github.com/zanamehta25cse/web-dev-assignment.git"
   },
   "license": "ISC",
-  "author": "Nilay Pratap Singh",
+  "author": "Zana Sahay",
   "type": "module",
   "main": "index.js",
   "scripts": {
